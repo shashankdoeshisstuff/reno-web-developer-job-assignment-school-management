@@ -122,7 +122,7 @@ export default function AddSchoolPage() {
   }
 
   return (
-    <div className="container min-h-screen py-8">
+    <div className="container mx-auto min-h-screen py-8">
       <div className="mx-auto max-w-2xl">
         <Card>
           <CardHeader className="text-center">

@@ -21,6 +21,8 @@ src/
     └── index.ts
 ```
 
+**Deployed**: [https://reno-web-developer-job-assignment-s.vercel.app/](https://reno-web-developer-job-assignment-s.vercel.app/)
+
 ## 👨‍💻 Developer Portfolio
 
 This project includes a comprehensive portfolio page showcasing:
@@ -30,6 +32,7 @@ This project includes a comprehensive portfolio page showcasing:
 - **Education & Certifications**: Academic background and professional certifications
 - **Featured Projects**: Showcase of key projects including this assignment
 - **Contact Information**: Direct links to LinkedIn, GitHub, and main portfolio
+
 
 **Portfolio Page**: [https://school-management-reno.vercel.app/portfolio](https://school-management-reno.vercel.app/portfolio)
 

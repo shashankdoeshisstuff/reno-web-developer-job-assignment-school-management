@@ -81,34 +81,7 @@ export default function HomePage() {
       description: 'Best practices'
     },
   ]
-
-  const projectLinks = [
-    {
-      title: 'GitHub Repository',
-      description: 'Complete source code',
-      icon: Github,
-      link: 'https://github.com/yourusername/school-management',
-    },
-    {
-      title: 'Live Deployment',
-      description: 'Hosted on Vercel',
-      icon: Globe,
-      link: 'https://school-management-reno.vercel.app',
-    },
-    {
-      title: 'Add School Form',
-      description: 'Page 1: Data Input',
-      icon: FileText,
-      link: '/add-school',
-    },
-    {
-      title: 'View Schools',
-      description: 'Page 2: Data Display',
-      icon: ExternalLink,
-      link: '/show-schools',
-    },
-  ]
-
+  
   const keyFeatures = [
     'Complete form validation with Zod',
     'Image upload to Supabase Storage',
@@ -420,7 +393,7 @@ export default function HomePage() {
               <div className="mt-8 text-center">
                 <Button asChild size="lg" className="gap-2">
                   <a 
-                    href="https://github.com/yourusername/school-management" 
+                    href="https://github.com/shashankdoeshisstuff/reno-web-developer-job-assignment-school-management" 
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
