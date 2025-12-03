@@ -43,5 +43,5 @@ This project includes a comprehensive portfolio page showcasing:
 - **Email**: shashank.maurya.pro@gmail.com
 - **Phone**: +91-9219639278
 - **LinkedIn**: [linkedin.com/in/shashank-maurya-41a926217](https://linkedin.com/in/shashank-maurya-41a926217)
-- **GitHub**: [github.com/shashankdoeshiestuff](https://github.com/shashankdosshiestuff)
+- **GitHub**: [github.com/shashankdoeshiestuff](https://github.com/shashankdoeshisstuff)
 - **Portfolio**: [shashank-maurya-portfolio.vercel.app](https://shashank-maurya-portfolio.vercel.app)
