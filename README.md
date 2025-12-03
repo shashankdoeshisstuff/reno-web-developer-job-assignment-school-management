@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+src/
+├── app/
+│   ├── add-school/
+│   │   └── page.tsx
+│   ├── show-schools/
+│   │   └── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+├── lib/
+│   ├── supabase.ts
+│   └── utils.ts
+├── components/
+│   ├── ui/
+│   │   ├── button.tsx
+│   │   ├── input.tsx
+│   │   ├── card.tsx
+│   │   └── form.tsx
+│   └── SchoolCard.tsx
+└── types/
+    └── index.ts
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👨‍💻 Developer Portfolio
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project includes a comprehensive portfolio page showcasing:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Professional Experience**: Detailed work history with project highlights
+- **Skills & Technologies**: Complete tech stack with categorized skills
+- **Education & Certifications**: Academic background and professional certifications
+- **Featured Projects**: Showcase of key projects including this assignment
+- **Contact Information**: Direct links to LinkedIn, GitHub, and main portfolio
 
-## Learn More
+**Portfolio Page**: [https://school-management-reno.vercel.app/portfolio](https://school-management-reno.vercel.app/portfolio)
 
-To learn more about Next.js, take a look at the following resources:
+**Main Portfolio**: [https://shashank-maurya-portfolio.vercel.app](https://shashank-maurya-portfolio.vercel.app)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📞 Contact
+- **Name**: Shashank Maurya
+- **Email**: shashank.maurya.pro@gmail.com
+- **Phone**: +91-9219639278
+- **LinkedIn**: [linkedin.com/in/shashank-maurya-41a926217](https://linkedin.com/in/shashank-maurya-41a926217)
+- **GitHub**: [github.com/shashankdoeshiestuff](https://github.com/shashankdoeshiestuff)
+- **Portfolio**: [shashank-maurya-portfolio.vercel.app](https://shashank-maurya-portfolio.vercel.app)
